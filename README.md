@@ -1,1 +1,2 @@
-# odin-recipes
+3/14/25 START
+This current project is meant to be a small list of various recipes. The skills I will have demonstrated upon completion include the ability to create a readable, basic website in html that utlizes paragraphs, lists, and images. 
